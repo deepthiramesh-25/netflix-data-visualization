@@ -33,7 +33,7 @@ The main goal was to understand real-world data and improve data analytics skill
 1. Netflix has released more **Movies** than **TV Shows**.
 2. The most common genres are **International Movies** and **Dramas**.
 3. Top contributing countries are **United States** and **India**.
-4. Most data falls in a single year, making time trend analysis limited.
+
 
 
 
